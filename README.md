@@ -1,2 +1,2 @@
 # SoftCollie
-SoftCollie CRM for customer management.
+SaaS project for hosting AI on corporate websites for customer management.
